@@ -8,7 +8,7 @@ const logo = (props) => {
 
 		<div className={classes.Logo} style={{height:props.height}}>
 
-			<img src={logo_img} />
+			<img src={logo_img} alt="hello"/>
 
 		</div>
 
